@@ -1,0 +1,22 @@
+{
+    "people": [
+        {
+            "age": "26",
+            "name": "Jordan",
+            "occupation": "programmer"
+        },
+        {
+            "age": "27",
+            "name": "Elly",
+            "occupation": "nanny"
+        },
+        {
+            "age": "27",
+            "name": "Zach",
+            "occupation": "nanny"
+        },
+        {
+            "newname": "FUCKFACE"
+        }
+    ]
+}
