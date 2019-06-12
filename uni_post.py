@@ -1,9 +1,7 @@
 import utilities
 
 def login(driver):
-    user_name = "0000004008"
-    password = "BB030468bb"
-    home = "https://post.blackboard.com"
+    # password data here
 
     driver.get(home)
 
